@@ -1,0 +1,2 @@
+# go-exercises
+Study notes
